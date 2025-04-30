@@ -23,7 +23,6 @@ Users can register, log in, add tasks, edit them, mark as completed, delete, and
 ## Setup Instructions
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/DoNeR997/django-todo-list.git
    cd django-todo-list
 2. Create and activate a virtual environment:python -m venv venv
