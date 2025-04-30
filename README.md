@@ -26,11 +26,13 @@ Users can register, log in, add tasks, edit them, mark as completed, delete, and
  
    git clone https://github.com/DoNeR997/django-todo-list.git
    cd django-todo-list
-3. Create and activate a virtual environment:python -m venv venv
+3. Create and activate a virtual environment:
+ 
+ python -m venv venv
 venv\Scripts\activate  # on Windows
-4. Install dependencies:
+6. Install dependencies:
   pip install -r requirements.txt
-5. Apply migrations and start the development server:
+7. Apply migrations and start the development server:
 python manage.py migrate
 python manage.py runserver
 5.Open your browser and go to:
